@@ -1,0 +1,29 @@
+@font-face {
+    font-family: 'debby';
+    src: url('../fonts/debby-webfont.eot');
+    src: url('../fonts/debby-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/debby-webfont.woff2') format('woff2'),
+         url('../fonts/debby-webfont.woff') format('woff'),
+         url('../fonts/debby-webfont.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+.debby {
+    font-family: 'debby';
+}
+
+@font-face {
+    font-family: 'museo_cyrl';
+    src: url('../fonts/museo_cyrl_500-webfont.eot');
+    src: url('../fonts/museo_cyrl_500-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/museo_cyrl_500-webfont.woff2') format('woff2'),
+         url('../fonts/museo_cyrl_500-webfont.woff') format('woff'),
+         url('../fonts/museo_cyrl_500-webfont.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+.museo {
+    font-family: 'museo_cyrl';
+}
